@@ -29,7 +29,6 @@ section .color:nth-child(1)
     top: -350px;
     width: 600px;
     height: 800px;
-    background: rgb(188,143,230);
 }
 section .color:nth-child(2)
 {
@@ -37,7 +36,6 @@ section .color:nth-child(2)
     left: 100px;
     width: 500px;
     height: 800px;
-    background:rgb(188, 143, 230);
 }
 section .color:nth-child(3)
 {
@@ -45,7 +43,6 @@ section .color:nth-child(3)
   right: 100px;
   width: 600px;
   height: 800px; 
-  background: rgb(188, 143, 230);
 }
 .box
 {
