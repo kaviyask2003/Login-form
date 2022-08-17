@@ -1,8 +1,8 @@
 
 body
 {
-    background: rgb(80, 33, 250);
-    color: aliceblue;
+    background: rgb(8,5,19);
+    color: rgb(18,23,26);
 }
 .main
 {
@@ -21,13 +21,13 @@ span
 @keyframes anim
 {
     0%{
-        color: aliceblue; text-shadow: none;
+        color: rgb(17,21,24); text-shadow: none;
     }
     90%{
-        color: aliceblue; text-shadow: none;
+        color: rgb(17,21,24); text-shadow: none;
     }
     100%{
-        color: rgb(241, 109, 164) ;text-shadow: none;
+        color: rgb(252, 241, 89) ;text-shadow: none;
     }
 }
 span:nth-child(1)
